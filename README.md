@@ -27,6 +27,9 @@ The following are criteria for a frequency distribution to be a binomial distrib
 
 # Program
 
+# Developed by:Saran M
+# Register Number: 212220230044
+
 ```python
 
 import numpy as np
@@ -64,5 +67,9 @@ else:
 
 
 
+# Output : 
+![image](https://user-images.githubusercontent.com/75235427/167097658-56a8305b-c155-4671-97af-5ab7032bb28c.png)
 
-# Results and Output : 
+# Result:
+Thus, the fitting binomial distribution for the given frequencey distribution is implemented.
+
